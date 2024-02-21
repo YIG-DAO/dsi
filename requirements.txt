@@ -1,0 +1,4 @@
+python-dotenv
+feedparser
+beautifulsoup4
+requests

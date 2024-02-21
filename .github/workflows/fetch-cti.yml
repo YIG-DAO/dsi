@@ -1,0 +1,37 @@
+name: Fetch-CTI
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+
+jobs:
+  cti:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: ci
+    steps:
+      - name: checkout the repo
+        uses: actions/checkout@v3
+      - name: Use Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+      - name: install dependencies
+        run: |
+          ls -lah
+          pip install -r requirements-dev.in
+          pip install .
+      - name: run scraper
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+        run: |
+          dstifbot -d -r
+      - name: save changes
+        run: |
+          git config --global user.email "bot-parser@users.noreply.github.com"
+          git config --global user.name "Bot-Parser"
+          DATE=$(date -Iseconds)
+          git commit --all --message "Updated by Bot-Parser on $DATE" || echo "no changes to commit"
+          git push
