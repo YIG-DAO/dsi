@@ -49,7 +49,7 @@ def send_api(content: str, title: str, url: str, date_published: str) -> int:
             "title": title,
             "status": "published",
             "content_html": content,
-            "url": url + "?utm_source=dstif.io",
+            "url": url + "?utm_source=yeetum.com",
             "date_published_ms": date_published
         },
     )
