@@ -178,7 +178,7 @@ def get_rss_from_url(rss_item, debug=False):
         output_message += "Source:<b> " + rss_item[1] + "</b>"
         output_message += "<br/>"
         output_message += "Read more: <a href=" + rss_object.link + "?utm_source=yeetum.com>"
-        output_message += rss_object.link + "?utm_source=dstif.io</a>"
+        output_message += rss_object.link + "?utm_source=yeetum.com</a>"
         output_message += "<br/>"
 
         title = emoji(rss_item[1]) + " " + rss_object.title
@@ -254,7 +254,7 @@ URL: <{url}>
         action="store_true",
         dest="debug",
         default=False,
-        help="Debug mode : only output on screen nothing send to dstif.io",
+        help="Debug mode : only output on screen nothing send to si.yeetum.com",
     )
     arg_parser.add_argument(
         "-d",
