@@ -1,5 +1,5 @@
 [Rss]
-dragon security threat intel = 2024-06-22T11:28:00
+dragon security threat intel = 2024-06-22T15:00:00
 bitpay = 2024-05-29T10:03:00
 web3wire = 2023-02-27T04:45:57
 layer3 = 2024-06-20T17:03:17
