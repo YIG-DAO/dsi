@@ -10,12 +10,12 @@ bis central bank research = 2024-07-15T00:00:00
 frb press release - enforcement actions = 2024-07-01T20:45:00
 frb press release - monetary policy = 2024-07-09T18:00:00
 frb press release - banking/consumer reg policy = 2024-07-12T14:00:00
-frb speeches and testimony = 2024-07-16T18:45:00
+frb speeches and testimony = 2024-07-17T13:35:00
 the fed credit and liquidity programs and the balance sheet = 2024-07-12T16:00:00
 office of inspector general for the board and cfpb = 2024-07-08T14:00:00
 frb board meeting = 2024-07-15T15:10:00
 frb working papers = 2024-07-16T20:48:00
 us treasury offering announcement = 2024-07-16T15:33:25
-cointelegraph = 2024-07-17T12:28:23
-bitcoinist = 2024-07-17T12:00:53
+cointelegraph = 2024-07-17T13:01:24
+bitcoinist = 2024-07-17T13:00:08
 
