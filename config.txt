@@ -14,8 +14,8 @@ frb speeches and testimony = 2024-07-18T23:45:00
 the fed credit and liquidity programs and the balance sheet = 2024-07-19T16:02:00
 office of inspector general for the board and cfpb = 2024-07-08T14:00:00
 frb board meeting = 2024-07-19T15:20:00
-frb working papers = 2024-07-19T17:51:00
+frb working papers = 2024-07-19T21:01:00
 us treasury offering announcement = 2024-07-18T17:04:19
-cointelegraph = 2024-07-19T20:14:00
-bitcoinist = 2024-07-19T19:00:42
+cointelegraph = 2024-07-19T21:11:29
+bitcoinist = 2024-07-19T22:00:24
 
