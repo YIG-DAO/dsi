@@ -1,6 +1,6 @@
 [Rss]
-dragon security threat intel = 2024-08-01T19:46:09
-bitpay = 2024-07-18T15:07:05
+dragon security threat intel = 2024-08-01T22:00:02
+bitpay = 2024-08-01T17:01:00
 web3wire = 2023-02-27T04:45:57
 layer3 = 2024-07-18T18:48:19
 reuters big picture = 2021-12-20T14:58:18
@@ -16,6 +16,6 @@ office of inspector general for the board and cfpb = 2024-07-26T18:00:00
 frb board meeting = 2024-07-31T18:21:00
 frb working papers = 2024-07-19T21:01:00
 us treasury offering announcement = 2024-08-01T15:34:36
-cointelegraph = 2024-08-01T20:14:10
-bitcoinist = 2024-08-01T20:00:31
+cointelegraph = 2024-08-01T22:04:21
+bitcoinist = 2024-08-01T21:30:23
 
