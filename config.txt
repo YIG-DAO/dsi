@@ -16,6 +16,6 @@ office of inspector general for the board and cfpb = 2024-07-26T18:00:00
 frb board meeting = 2024-07-31T18:21:00
 frb working papers = 2024-07-19T21:01:00
 us treasury offering announcement = 2024-08-01T15:34:36
-cointelegraph = 2024-08-02T10:10:24
-bitcoinist = 2024-08-02T09:30:45
+cointelegraph = 2024-08-02T12:05:00
+bitcoinist = 2024-08-02T12:30:49
 
