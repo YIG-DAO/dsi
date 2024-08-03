@@ -17,5 +17,5 @@ frb board meeting = 2024-07-31T18:21:00
 frb working papers = 2024-08-02T13:55:00
 us treasury offering announcement = 2024-08-01T15:34:36
 cointelegraph = 2024-08-02T23:20:00
-bitcoinist = 2024-08-03T00:30:45
+bitcoinist = 2024-08-03T02:00:20
 
