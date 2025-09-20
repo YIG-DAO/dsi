@@ -16,7 +16,7 @@ office of inspector general for the board and cfpb = 2025-08-25T14:00:00
 frb board meeting = 2025-09-17T18:30:00
 frb working papers = 2025-09-19T17:30:00
 us treasury offering announcement = 2025-09-18T17:04:52
-cointelegraph = 2025-09-20T02:23:09
+cointelegraph = 2025-09-20T06:12:09
 bitcoinist = 2024-08-30T13:00:20
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
@@ -2127,6 +2127,7 @@ bitcoinist = 2024-08-30T13:00:20
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
 bitcoin magazine = 2025-09-19T21:43:29
+	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
 
