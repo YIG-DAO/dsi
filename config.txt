@@ -1,22 +1,22 @@
 [Rss]
 dragon security threat intel = 6740-05-09T12:19:35
 bitpay = 2024-11-26T17:31:50
-web3wire = 2025-10-08T15:44:43
+web3wire = 2025-10-08T18:33:11
 layer3 = 2024-09-10T16:02:18
 reuters big picture = 2021-12-20T14:58:18
 reuters tech = 2024-02-26T13:05:28
 reuters business & finance = 2024-02-29T12:53:04
 bis central bank research = 2035-09-01T00:00:00
 frb press release - enforcement actions = 2025-09-25T19:00:00
-frb press release - monetary policy = 2025-09-17T18:00:00
+frb press release - monetary policy = 2025-10-08T18:00:00
 frb press release - banking/consumer reg policy = 2025-09-30T20:30:00
 frb speeches and testimony = 2025-10-08T13:30:00
 the fed credit and liquidity programs and the balance sheet = 2025-05-22T20:30:00
 office of inspector general for the board and cfpb = 2025-10-01T14:00:00
 frb board meeting = 2025-10-06T19:20:00
 frb working papers = 2025-09-30T19:00:00
-us treasury offering announcement = 2025-10-08T15:34:42
-cointelegraph = 2025-10-08T16:18:41
+us treasury offering announcement = 2025-10-08T17:04:43
+cointelegraph = 2025-10-08T18:06:17
 bitcoinist = 2024-08-30T13:00:20
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
@@ -2126,5 +2126,5 @@ bitcoinist = 2024-08-30T13:00:20
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
 	illicit edge = 2021-12-28T04:12:04
-bitcoin magazine = 2025-10-08T15:24:28
+bitcoin magazine = 2025-10-08T17:28:14
 
